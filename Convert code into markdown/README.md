@@ -10,4 +10,4 @@
 > [greater-than sign](https://en.wikipedia.org/wiki/Greater-than_sign)
 > into their corresponding markdown codes.
 
-> For for information - [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Predefined_entities_in_XML)
+> For more information - [List of XML and HTML character entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Predefined_entities_in_XML)
